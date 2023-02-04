@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"stats":{"minecraft:crafted":{"deneme:ores_ingot":1},"minecraft:used":{"minecraft:stone":6,"deneme:ores_ore":13,"minecraft:furnace":1},"minecraft:custom":{"minecraft:jump":22,"minecraft:time_since_rest":3791,"minecraft:leave_game":1,"minecraft:sprint_one_cm":36,"minecraft:interact_with_furnace":1,"minecraft:play_time":3791,"minecraft:walk_on_water_one_cm":1354,"minecraft:time_since_death":3791,"minecraft:walk_one_cm":3367,"minecraft:walk_under_water_one_cm":221,"minecraft:sneak_time":120,"minecraft:total_world_time":3922,"minecraft:fly_one_cm":18946}},"DataVersion":3120}
+=======
+{"stats":{"minecraft:custom":{"minecraft:jump":3,"minecraft:time_since_rest":2065,"minecraft:leave_game":1,"minecraft:play_time":2065,"minecraft:time_since_death":2065,"minecraft:walk_one_cm":602,"minecraft:sneak_time":27,"minecraft:total_world_time":2177,"minecraft:fly_one_cm":6269}},"DataVersion":3120}
+>>>>>>> branch 'master' of https://github.com/Noirschwarz0/mcmodd.git

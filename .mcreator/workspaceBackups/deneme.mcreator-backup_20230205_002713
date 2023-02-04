@@ -1,0 +1,108 @@
+{
+  "mod_elements": [
+    {
+      "name": "Steam",
+      "type": "fluid",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steam",
+      "metadata": {
+        "gb": true
+      },
+      "path": "~/Steam"
+    },
+    {
+      "name": "OresIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ingot",
+      "path": "~/Ores"
+    },
+    {
+      "name": "OresOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ore",
+      "path": "~/Ores"
+    },
+    {
+      "name": "OresOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores_ore_smelting",
+      "path": "~/Ores"
+    },
+    {
+      "name": "RawTin",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_tin",
+      "path": "~/Ores"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.deneme.raw_tin": "Raw Tin",
+      "item.deneme.tin_ingot": "Tin Ingot",
+      "block.deneme.steam": "Steam",
+      "block.deneme.tin_ore": "Tin Ore",
+      "fluid.deneme.steam": "Steam",
+      "item.deneme.steam_bucket": "Steam Bucket"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Boiler",
+        "children": [
+          {
+            "name": "Gui",
+            "children": []
+          },
+          {
+            "name": "Block",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Steam",
+        "children": []
+      },
+      {
+        "name": "Ores",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "deneme",
+    "modName": "deneme",
+    "version": "1.0.0",
+    "author": "bilal, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.deneme",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

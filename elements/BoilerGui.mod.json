@@ -1,0 +1,183 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 186,
+    "height": 178,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 132,
+          "y": 98
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 186,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Boiler",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Boiler",
+          "x": 195,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "isinmaseyi.png",
+          "use1Xscale": false,
+          "name": "isinmaseyi.png",
+          "x": 222,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "1.png",
+          "use1Xscale": false,
+          "name": "1.png",
+          "x": 222,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water_tank.png",
+          "use1Xscale": false,
+          "name": "water_tank.png",
+          "x": 132,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water.png",
+          "use1Xscale": false,
+          "name": "water.png",
+          "x": 136,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water.png",
+          "use1Xscale": false,
+          "name": "water.png",
+          "x": 136,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water.png",
+          "use1Xscale": false,
+          "name": "water.png",
+          "x": 136,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water.png",
+          "use1Xscale": false,
+          "name": "water.png",
+          "x": 136,
+          "y": 55
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "steam_tank.png",
+          "use1Xscale": false,
+          "name": "steam_tank.png",
+          "x": 276,
+          "y": 63
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "steam.png",
+          "use1Xscale": false,
+          "name": "steam.png",
+          "x": 280,
+          "y": 92
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "steam.png",
+          "use1Xscale": false,
+          "name": "steam.png",
+          "x": 280,
+          "y": 83
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "steam.png",
+          "use1Xscale": false,
+          "name": "steam.png",
+          "x": 280,
+          "y": 74
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "steam.png",
+          "use1Xscale": false,
+          "name": "steam.png",
+          "x": 280,
+          "y": 65
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
